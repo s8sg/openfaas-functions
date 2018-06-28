@@ -27,4 +27,3 @@ functions:
     lang: python
     handler: ./fn6
     image: viveksyngh/fn6
-    
