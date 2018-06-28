@@ -1,2 +1,1 @@
 ## OpenFaaS functions for testing
-
