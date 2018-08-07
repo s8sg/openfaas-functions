@@ -25,6 +25,6 @@ functions:
     image: viveksyngh/fn5
   fn6:
     lang: python
-    handler: ./fn6
+    handler: ./fn7
     image: viveksyngh/fn6
 
